@@ -1,7 +1,6 @@
 import java.util.Scanner;
-import java.util.ArrayList;
 
-public class McDonald {
+public class Login {
      //creo le variabili e gli oggetti
     private static String[] usernames = new String[50];
     private static String[] passwords = new String[50];
@@ -84,8 +83,6 @@ public class McDonald {
         }
         return -1;
     }
-         
-    
-        
-    }
+                    
+}
 
