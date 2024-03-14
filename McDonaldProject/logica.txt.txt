@@ -1,0 +1,14 @@
+Il programma ha la seguente logica
+
+Quando l'utente accede all'applicazione ha tre 
+scelte: -registrati----->l'utente si registra e può fare il login
+        -login ---->una volta loggato l'utente deve scegliere un budget (1/4).
+        -esci
+Una volta scelto il budget l'utente dovrà scegliere tra 4 menu diversi,
+in base a quante persone sono.
+Una volta che l'utente ha effettuato le sue scelte e confermato l'ordine, 
+l'ordine viene inserito in un array di tavoli che ha 6 posizioni libere.
+Una volta che tutto l'array è occupato, se l'utente effettua l'ordine mandare 
+messaggio di errore (Tutti i tavoli sono occupati).
+In fine se l'ordine è stato inserito nell'array manda in stampa una serie di dati.
+Se l'utente è già registrato ed ha già effettuato un ordine, il prossimo budget sarà incrementato del 30%.        
